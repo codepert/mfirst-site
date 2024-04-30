@@ -1,4 +1,5 @@
-[![image](https://github.com/tranguixdev/next-strapi/assets/150120338/dc74ee95-5398-4c8b-b461-3151e2ab1275)](https://github.com/codepert/mfirst-site/blob/main/Screenshot_17.png)
+
+![Screenshot_17](https://github.com/codepert/mfirst-site/assets/150120338/02cbc3e7-1393-4e28-a04f-09882277017c)
 
  # OVERVIEW
 
